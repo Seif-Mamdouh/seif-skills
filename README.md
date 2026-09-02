@@ -1,4 +1,4 @@
-# safe-skills
+# seif-skills
 
 A collection of Claude Code skills. Each skill lives in `skills/<name>/` with a `SKILL.md` entry point.
 
