@@ -8,7 +8,7 @@ A collection of Claude Code skills. Each skill lives in `skills/<name>/` with a 
 | `grill-me` | Grilling session that stress-tests a plan against your project's domain model and updates CONTEXT.md / ADRs inline. |
 | `microworld` | Builds an interactive "micro world" so you can understand a diff, feature, or plan by playing with it instead of reading it. |
 | `explain-diff` | Produces a rich, interactive HTML explanation of a code change, diff, branch, or PR. |
-| `plain` | Controlled technical writing (CTE, ASD-STE100, Google style, Diátaxis) for precise, translatable docs. |
+| `plan` | Controlled technical writing (CTE, ASD-STE100, Google style, Diátaxis) for precise, translatable docs. |
 
 ## Install
 

@@ -1,5 +1,5 @@
 ---
-name: plain
+name: plan
 description: Write clear, controlled technical documentation (CTE, ASD-STE100, Google Developer Documentation Style Guide, Diátaxis). Use when producing plans, skills, docs, READMEs, API references, procedures, or any technical writing that must be precise, unambiguous, and easy to translate.
 ---
 
